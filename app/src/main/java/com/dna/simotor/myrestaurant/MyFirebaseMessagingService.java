@@ -22,7 +22,7 @@ import com.google.firebase.messaging.RemoteMessage;
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
-    private static final String TAG = "MyFirebaseMessagingService";
+    private static final String TAG = "MyFMService";
 
     @SuppressLint({"LongLogTag", "NewApi"})
     @Override
