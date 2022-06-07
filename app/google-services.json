@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569418783469",
+    "project_id": "my-restaurant-learn-fcm",
+    "storage_bucket": "my-restaurant-learn-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569418783469:android:c29ebe088b976ad57dcae4",
+        "android_client_info": {
+          "package_name": "com.dna.simotor.myrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569418783469-hec4vbev5nhsg7m4uepnkou5ttm1d2n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOGSM0D78jjuoaiYPGD0V_CsnMfoiYuPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569418783469-hec4vbev5nhsg7m4uepnkou5ttm1d2n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
